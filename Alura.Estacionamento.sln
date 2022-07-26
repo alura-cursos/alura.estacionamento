@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.Estacionamento", "Alura.Estacionamento\Alura.Estacionamento.csproj", "{39515548-848C-4B37-93A8-8F64568153D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.Estacionamento", "Alura.Estacionamento\Alura.Estacionamento.csproj", "{39515548-848C-4B37-93A8-8F64568153D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alura.Estacionamento.Tests", "Alura.Estacionamento.Tests\Alura.Estacionamento.Tests.csproj", "{56F7D5C8-C718-4A8C-BD41-4DA7123CEF38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alura.Estacionamento.Testes", "Alura.Estacionamento.Tests\Alura.Estacionamento.Testes.csproj", "{56F7D5C8-C718-4A8C-BD41-4DA7123CEF38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

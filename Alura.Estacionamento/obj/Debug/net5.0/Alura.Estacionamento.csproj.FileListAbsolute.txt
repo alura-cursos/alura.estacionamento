@@ -45,4 +45,19 @@ C:\Users\andre\OneDrive\Documentos\Projetos\Aula05\Alura.Estacionamento\Alura.Es
 C:\Users\andre\OneDrive\Documentos\Projetos\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\ref\Alura.Estacionamento.dll
 C:\Users\andre\OneDrive\Documentos\Projetos\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.pdb
 C:\Users\andre\OneDrive\Documentos\Projetos\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.genruntimeconfig.cache
-C:\Users\andre\OneDrive\Documentos\Projetos\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.exe
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.deps.json
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.dll
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\ref\Alura.Estacionamento.dll
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Alura.Estacionamento.pdb
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.dll
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\ref\Alura.Estacionamento.dll
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.pdb
+C:\Users\andre\OneDrive\Documentos\Alura\Escola de Programação\Formação Teste .NET\Curso 1\Aula05\Alura.Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Alura.Estacionamento.genruntimeconfig.cache
